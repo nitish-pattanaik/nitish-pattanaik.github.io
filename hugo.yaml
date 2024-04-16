@@ -1,5 +1,9 @@
 # Hugo configuration file
-title: My Site
+title: Let's Make Some Difference
+baseURL: https://nitish-pattanaik.github.io/
+theme: hextra
+languageCode: en-us
+
 
 # import hextra as module
 module:
