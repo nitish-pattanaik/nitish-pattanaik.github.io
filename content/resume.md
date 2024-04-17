@@ -2,34 +2,34 @@
 Title: Resume
 ----
 
-Nitish Pattanaik
-============
+# Nitish Pattanaik
 
--------------------     ----------------------------
-Internet                 nitish-pattanaik.github.io
-Mail                     nitishkpattanaik@gmail.com
-Twitter                            @NitishPattanaik
-LinkedIn                          @nitish-pattanaik
-Place                            Bhubaneswar, India
--------------------     ----------------------------
+- Internet: [nitish-pattanaik.github.io](https://nitish-pattanaik.github.io/)
+- Mail:     nitishkpattanaik@gmail.com
+- Twitter:  [@NitishPattanaik](https://x.com/NitishPattanaik)
+- LinkedIn: @nitish-pattanaik
+- GitHub:   [@nitish-pattanaik](https://github.com/nitish-pattanaik/)
+- Place:    Bhubaneswar, India
 
-Education
----------
+## Education
 
-2023-2025 (expected)
-:   **MCA, Computer Application**; Odisha University of Technology & Research, Bhubaneswar, Odisha
+- 2023-2025 (expected) <br>
+**MCA, Computer Application** <br>
+Odisha University of Technology & Research, Bhubaneswar, Odisha
 
-    *THESIS01: Indian Sign Language Recognition*
-    *THESIS02: Text Translation From English To Hindi Using NLP (helensiki-nlp)*
+    - PROJECT01: Indian Sign Language Recognition
+    - PROJECT02: Text Translation From English To Hindi Using NLP (helensiki-nlp)
 
-2019-2022
-:   **BSc, Computer Science**;  B.J.B Autonomous  College, Bhubaneswar, Odisha
+- 2019-2022 <br>
+**BSc, Computer Science** <br>
+B.J.B Autonomous  College, Bhubaneswar, Odisha
 
-    *PROJECT: Cyptography Based Chat Application*
+    - PROJECT: Cyptography Based Chat Application
 
-Experience
-----------
-
+## Experience
+- NO Job Experimence
+- Fresher
+<!--
 **Your Most Recent Work Experience:**
 
 Short text containing the type of work done, results obtained,
@@ -44,10 +44,11 @@ links:
 **That Other Job You Had**
 
 Also with a short description.
+-->
 
-Technical Experience
---------------------
+## Technical Experience
 
+<!--
 My Cool Side Project
 :   For items which don't have a clear time ordering, a definition
     list can be used to have named items.
@@ -83,16 +84,14 @@ Programming Languages
 :   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
 
 [ref]: https://github.com/nitish-pattanaik/
+-->
 
-Miscellaneous
--------------
 
-* Human Languages:
 
-     * English
-     * Hindi
-     * Odia
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+## Miscellaneous
+- Human Languages(fluent in each of these)
+    - English
+    - Hindi
+    - Odia
+- Organizational & Managerial Skills: Good
+- I can fit into any team quickly.
