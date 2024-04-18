@@ -10,7 +10,7 @@ tags:
 ---
 
 A Journey Through the Layers of Computing.
-<!-- more -->
+<!--more-->
 
 # A Hierarchical Descent Into Computing
 Computing is any goal-oriented activity requiring, benefiting from, or creating computing machinery. It includes study and experimentation of algorithmic processes, and development of both hardware and software.
@@ -19,7 +19,7 @@ Simply, computing refers to solving problems using any computer. But, how a comp
 ## A Bit of History
 Alan Turing is the reason for creation and existence of today’s modern world computers. In order to provide a definition to computation, he proposed the idea of the TURING MACHINE in 1973. He states that all computations could be carried out by that turing machine. Back in the days, computation mainly refers to some very minimal tasks like adding and multiplying. One turing machine can be designed to perform additions, while another can be designed to perform multiplying. Like this, you can build multiple turing machines for multiple computations. 
 
-![Turing Machine](images/turing_machine.png)
+![Turing Machine](/images/turing_machine.png)
 <!-- ![Turing Machine](/static/images/turing_machine.png) -->
 
 This black box model provides no information as to exactly how  the operation is performed, and indeed, there are many ways to add or multiply two numbers. He proposed that every computation can be performed by some Turing machine. We call this Turing’s Thesis.
@@ -28,7 +28,7 @@ Universal Turing Machines are special, they can perform any computation not just
 Suppose you wanted to compute g . (e + f) . You would simply provide to U descriptions of Turing machines to add and to multiply, and three inputs i.e. g, e & f. After that, U would do the rest.
 
 
-![Univeral Turing Machine](images/universal_tm.png)
+![Univeral Turing Machine](/images/universal_tm.png)
 <!-- ![Univeral Turing Machine](/static/images/universal_tm.png) -->
 
 Computers and Universal Turing Machines are essentially the same thing in principle. These two machines can compute anything that can be computed, because they are programmable. 
@@ -44,7 +44,7 @@ From 1973 to 2024, numerous inventions were made to make computers to do all kin
 
 ## Layers of Stack
 
-![computing stack](/static/images/computing_stack.png)
+![computing stack](/images/computing_stack.png)
 
 
 ### Layer01: Application Software
