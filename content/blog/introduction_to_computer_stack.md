@@ -10,6 +10,7 @@ tags:
 ---
 
 A Journey Through the Layers of Computing.
+
 <!--more-->
 
 # A Hierarchical Descent Into Computing
