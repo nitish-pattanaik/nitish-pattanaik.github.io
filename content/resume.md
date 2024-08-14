@@ -15,10 +15,11 @@ Title: Resume
 
 - 2023-2025 (expected) <br>
 **MCA, Computer Application** <br>
-Odisha University of Technology & Research, Bhubaneswar, Odisha
+Odishs University of Technology & Research, Bhubaneswar, Odisha
+1st Sem: 9.67, 2nd Sem: 9.47
 
     - PROJECT01: Indian Sign Language Recognition
-    - PROJECT02: Text Translation From English To Hindi Using NLP (helensiki-nlp)
+    - PROJECT02: Neural Machine Translation Using A Transformer Based Approach (helensiki-nlp model)
 
 - 2019-2022 <br>
 **BSc, Computer Science** <br>
@@ -89,9 +90,10 @@ Programming Languages
 
 
 ## Miscellaneous
-- Human Languages(fluent in each of these)
-    - English
-    - Hindi
-    - Odia
+- Human Languages
+    - English (full professional fluency)
+    - Hindi (bilingual fluency)
+    - Odia (mother-tongue)
 - Organizational & Managerial Skills: Good
+- Communication Skill: Good
 - I can fit into any team quickly.
