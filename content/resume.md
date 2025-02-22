@@ -1,99 +1,79 @@
+# **Nitish Kumar Pattanaik**
+
+- **Email:** nitishkpattanaik@gmail.com
+- **Phone:** [+91 8018434579]
+- **GitHub:** [@nitish-pattanaik](https://github.com/nitish-pattanaik)
+- **Portfolio:** https://nitish-pattanaik.github.io/
+- **LinkedIn:** [@nitish-pattanaik](https://www.linkedin.com/in/nitish-pattanaik/)
+- **X (Twitter):** [@NitishPattanaik](https://x.com/NitishPattanaik)
+
 ---
-Title: Resume
-----
 
-# Nitish Pattanaik
+### **Summary**
 
-- Internet: [nitish-pattanaik.github.io](https://nitish-pattanaik.github.io/)
-- Mail:     nitishkpattanaik@gmail.com
-- Twitter:  [@NitishPattanaik](https://x.com/NitishPattanaik)
-- LinkedIn: @nitish-pattanaik
-- GitHub:   [@nitish-pattanaik](https://github.com/nitish-pattanaik/)
-- Place:    Bhubaneswar, India
+Software developer specializing in C and C++ with expertise in memory allocators, high-performance computing, and real-time applications. Experienced in competitive programming, cloud computing, and building efficient software systems. Passionate about optimizing algorithms for speed and resource utilization.
 
-## Education
+---
 
-- 2023-2025 (expected) <br>
-**MCA, Computer Application** <br>
-Odishs University of Technology & Research, Bhubaneswar, Odisha
-1st Sem: 9.67, 2nd Sem: 9.47
+### **Skills**
 
-    - PROJECT01: Indian Sign Language Recognition
-    - PROJECT02: Neural Machine Translation Using A Transformer Based Approach (helensiki-nlp model)
+- **Programming Languages:** C-23, C++ 20, Assembly (FASM)
+- **Technologies & Tools:** WinAPI, Dear ImGui, RayLib, Tensorflow, Pytorch
+- **Concepts:** Memory Management, Immediate Mode UI, Low-latency Systems, Cryptography
+- **Competitive Programming:** Codeforces, LeetCode (Specializing in DSA)
+- **Cloud Computing:** Cloud Resource Utilization, Load Balancing, CNN-LSTM, PSO-GA Optimization
 
-- 2019-2022 <br>
-**BSc, Computer Science** <br>
-B.J.B Autonomous  College, Bhubaneswar, Odisha
+---
 
-    - PROJECT: Cyptography Based Chat Application
+### **Projects**
 
-## Experience
-- NO Job Experimence
-- Fresher
-<!--
-**Your Most Recent Work Experience:**
+**Cloud Resource Utilization Prediction & Load Balancing**
+- Developed a CNN-LSTM-based system for optimizing cloud resource allocation using PSO-GA hybrid optimization.
+- Implemented a load balancer simulator with multiple VMs and tasks (cloudlets) for performance testing.
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+**Cryptography-based Android Application**
+- Built an Android app for text encryption and decryption using AES, DES, and RSA.
+- Developed C++-based backend using Android NDK for improved security and performance.
 
-* First item
+** Machine Translation System Using Helsinki-NLP Model
+- Here I create a machine translation system which translate English text to Hindi text using a pretrained model called Helsinki-NLP.
+- In this project I used Helsinki-NLP and finetuned this model using CFILT dataset by IITBombay
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+**Custom Memory Allocator**
+- Designed and implemented a memory allocation system in C++ to optimize memory usage and performance.
+- Benchmarked against standard malloc/free, achieving \~20% faster allocations in test scenarios.
 
-**That Other Job You Had**
+---
 
-Also with a short description.
--->
+### **Education**
 
-## Technical Experience
+** Master In Computer Applications (MCA)
+   Odisha University of Technology & Research, May 2025
+   1st SGPA: 9.67, 2nd SGPA: 9.47, 3rd SGPA: 9.8, 4th SGPA: ?
 
-<!--
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+** Bachelor of Science in Computer Science (B.Sc in CS)
+   B.J.B Autonomous College, Bhubaneswar, Odisha, May 2022
+   CGPA: 8.72
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+Relevant Coursework: Data Structures, Algorithms, CN, OS, Digital Design, DAA, Databases, WEB, UNIX, Compute Architecture, Assembly, ML, DL, AI
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+---
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+### **Certifications**
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+- Introduction to Cybersecurity                                   | 31 MAY 2024
+- Cybersecurity Essentials                                        | 31 MAY 2024
+- CCNAv7: Introduction to Networks [CCNA1]                        | 28 MAR 2024
+- CCNAv7: Switching, Routing, and Wireless Essentials [CCNA2]     | 28 MAY 2024
+- CCNAv7: Enterprise Networking, Security, and Automation [CCNA3] | 01 JUN 2024
+- DevNet Associate                                                | 9 APR 2024
+- PCAP - Programming Essentials in Python                         | 31 MAY 2024
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+---
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+### **Additional Information**
 
-[ref]: https://github.com/nitish-pattanaik/
--->
+- Actively participate in competitive programming contests on Codeforces and LeetCode.
+- Deeply cares about performance aware programming, using C, C++.
 
-
-
-## Miscellaneous
-- Human Languages
-    - English (full professional fluency)
-    - Hindi (bilingual fluency)
-    - Odia (mother-tongue)
-- Organizational & Managerial Skills: Good
-- Communication Skill: Good
-- I can fit into any team quickly.
+---
